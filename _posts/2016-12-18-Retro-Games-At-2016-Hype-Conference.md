@@ -12,6 +12,6 @@ categories:
 twitter_text: 'Retro Games In Tumult Hype'
 ---
 
-<h1>My Presentation at the 2016 Tumult Hype Conference in Nashville, TN</h1>
+<h2>Darren Pearson - 2016 Tumult Hype Conference in Nashville, TN</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD_OMvcfjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
