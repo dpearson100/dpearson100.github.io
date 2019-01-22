@@ -13,6 +13,6 @@ categories:
 twitter_text: 'Hosting Projects on Github'
 ---
 
-<h1>Quick tutorial to integrate Tumult HYpe and Github</h1>
+<h1>Quick tutorial to integrate Tumult Hype and Github</h1>
 
 <iframe width="600" height="450" src="https://www.youtube.com/embed/b-P-ArNnduA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
