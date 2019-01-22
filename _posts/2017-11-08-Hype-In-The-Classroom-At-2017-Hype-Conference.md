@@ -15,8 +15,4 @@ twitter_text: 'Tumult Hype In The Classroom'
 
 <h1>My Presentation at the 2017 Tumult Hype Conference in Nashville, TN</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TD_OMvcfjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 <iframe width="600" height="450" src="https://www.youtube.com/embed/qtAHSy91VRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
